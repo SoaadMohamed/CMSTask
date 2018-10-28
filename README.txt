@@ -1,7 +1,7 @@
 1- The project consists of 2 part (Code and database[trufla.sql])
 2- For opening the backend interface you need to add (/user) at the end of the frontend's URL then you can access it with username: soaad and password: admin
 3- Development Work:
-
+*Main Goal
 I created a new theme with name "trufla" with the following structure:
 
 - Header:
@@ -14,3 +14,7 @@ includes all the side bar contents
 includes Content info block
 - Footer:
 include footer block
+
+*Bonus
+1- Convert CSS to SCSS --> Created new file with name style.scss
+2- Add ability to deploy in Docker container --> Created file with the required instructions to do that
