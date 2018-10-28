@@ -17,4 +17,4 @@ include footer block
 
 *Bonus
 1- Convert CSS to SCSS --> Created new file with name style.scss
-2- Add ability to deploy in Docker container --> Created file with the required instructions to do that
+2- Add ability to deploy in Docker container --> Created file with name "trufla-docker-compose.yml" for the required instructions to do that.
